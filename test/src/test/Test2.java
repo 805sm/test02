@@ -1,5 +1,5 @@
 package test;
 
 public class Test2 {
-	//ÀÌ°Ç 2¹ø
+	//2ë²ˆ ìˆ˜ì •
 }
